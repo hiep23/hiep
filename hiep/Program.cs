@@ -7,6 +7,7 @@ namespace _hiep
     {
         static void Main(string[] args)
         {
+            // dien tich hinh tha
             Console.WriteLine("PHAN MEM TINH DIEN TICH HINH THANG");
 
             double a, b, h;
